@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![一个图片](https://octodex.github.com/images/yaktocat.png "this is a image title")
