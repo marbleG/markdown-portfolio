@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+### add list
+1. :heart:
+2. study
